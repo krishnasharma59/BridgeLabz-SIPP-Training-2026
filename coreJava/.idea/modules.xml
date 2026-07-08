@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gcr-codebase/arrays/arrays.iml" filepath="$PROJECT_DIR$/gcr-codebase/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gcr-codebase/control-flow/control-flow.iml" filepath="$PROJECT_DIR$/gcr-codebase/control-flow/control-flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coreJava.iml" filepath="$PROJECT_DIR$/coreJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gcr-codebase/exception-handling/exception-handling.iml" filepath="$PROJECT_DIR$/gcr-codebase/exception-handling/exception-handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gcr-codebase/methods-practices/methods-practices.iml" filepath="$PROJECT_DIR$/gcr-codebase/methods-practices/methods-practices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gcr-codebase/programming-elements/programming-elements.iml" filepath="$PROJECT_DIR$/gcr-codebase/programming-elements/programming-elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gcr-codebase/recursion/recursion.iml" filepath="$PROJECT_DIR$/gcr-codebase/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gcr-codebase/string/string.iml" filepath="$PROJECT_DIR$/gcr-codebase/string/string.iml" />
+    </modules>
+  </component>
+</project>

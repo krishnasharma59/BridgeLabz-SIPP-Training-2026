@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="gcr-codebase">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gcr-codebase/java-methods.zip!/" />
+      <root url="jar://$PROJECT_DIR$/gcr-codebase/JavaIO.zip!/" />
+      <root url="jar://$PROJECT_DIR$/gcr-codebase/recursion.zip!/" />
+      <root url="jar://$PROJECT_DIR$/gcr-codebase/arrays.zip!/" />
+      <root url="jar://$PROJECT_DIR$/gcr-codebase/string.zip!/" />
+      <root url="jar://$PROJECT_DIR$/gcr-codebase/exception-handling.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
