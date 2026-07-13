@@ -12,6 +12,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0535-encode-and-decode-tinyurl](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0535-encode-and-decode-tinyurl) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0005-longest-palindromic-substring](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0005-longest-palindromic-substring) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0535-encode-and-decode-tinyurl](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0535-encode-and-decode-tinyurl) |
 ## Sorting
 |  |
 | ------- |
@@ -46,4 +48,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
