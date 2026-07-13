@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0012-integer-to-roman) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0535-encode-and-decode-tinyurl) |
@@ -67,6 +69,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0012-integer-to-roman) |
 | [0537-complex-number-multiplication](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0539-minimum-time-difference) |
 ## Simulation
