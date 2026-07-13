@@ -14,11 +14,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0005-longest-palindromic-substring) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0005-longest-palindromic-substring) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Sorting
 |  |
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
