@@ -73,4 +73,5 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0328-odd-even-linked-list](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
