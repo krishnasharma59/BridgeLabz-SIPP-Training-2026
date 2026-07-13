@@ -12,12 +12,14 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0141-linked-list-cycle) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0535-encode-and-decode-tinyurl](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0535-encode-and-decode-tinyurl) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0005-longest-palindromic-substring) |
+| [0141-linked-list-cycle](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0141-linked-list-cycle) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## String
@@ -74,6 +76,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
