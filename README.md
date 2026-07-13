@@ -27,6 +27,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0535-encode-and-decode-tinyurl) |
+| [0537-complex-number-multiplication](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
 ## Sorting
 |  |
 | ------- |
@@ -56,4 +57,12 @@
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0535-encode-and-decode-tinyurl) |
+## Math
+|  |
+| ------- |
+| [0537-complex-number-multiplication](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
+## Simulation
+|  |
+| ------- |
+| [0537-complex-number-multiplication](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
 <!---LeetCode Topics End-->
