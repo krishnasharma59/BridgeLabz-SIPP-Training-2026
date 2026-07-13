@@ -69,4 +69,8 @@
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
