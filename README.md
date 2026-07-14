@@ -25,6 +25,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0844-backspace-string-compare](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0537-complex-number-multiplication](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
+| [0844-backspace-string-compare](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -98,6 +101,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
