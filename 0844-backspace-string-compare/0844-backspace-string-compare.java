@@ -20,21 +20,22 @@ class Solution {
                 stack2.pop();
             }
         }
-        StringBuilder s1 = new StringBuilder();
-        StringBuilder s2 = new StringBuilder();
-        for(char ch : stack){
-            s1.append(ch);
-        }
-        for(char ch: stack2){
-            s2.append(ch);
-        }
-        String ans1 = s1.toString();
-        String ans2 = s2.toString();
-        if(ans1.equals(ans2)){
-            return true;
-        }
-        else{
-            return false;
-        }
+        // StringBuilder s1 = new StringBuilder();
+        // StringBuilder s2 = new StringBuilder();
+        // for(char ch : stack){
+        //     s1.append(ch);
+        // }
+        // for(char ch: stack2){
+        //     s2.append(ch);
+        // }
+        // String ans1 = s1.toString();
+        // String ans2 = s2.toString();
+        // if(ans1.equals(ans2)){
+        //     return true;
+        // }
+        // else{
+        //     return false;
+        // }
+        return stack.equals(stack2);
     }
 }
