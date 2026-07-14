@@ -12,10 +12,10 @@ class Solution {
                 if (ch == ')' && top != '(') {
                     return false;
                 }
-                if (ch == ']' && top != '[') {
+                else if (ch == ']' && top != '[') {
                     return false;
                 }
-                if (ch == '}' && top != '{') {
+                else if (ch == '}' && top != '{') {
                     return false;
                 }
             }
