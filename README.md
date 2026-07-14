@@ -31,6 +31,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0020-valid-parentheses) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0535-encode-and-decode-tinyurl) |
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0021-merge-two-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
