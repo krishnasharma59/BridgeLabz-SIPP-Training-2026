@@ -37,6 +37,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0539-minimum-time-difference) |
+| [0678-valid-parenthesis-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0005-longest-palindromic-substring) |
+| [0678-valid-parenthesis-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
@@ -93,4 +95,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
