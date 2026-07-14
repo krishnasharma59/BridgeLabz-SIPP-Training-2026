@@ -44,6 +44,7 @@
 | [0539-minimum-time-difference](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
@@ -116,11 +117,13 @@
 | [0844-backspace-string-compare](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Number Theory
 |  |
 | ------- |
