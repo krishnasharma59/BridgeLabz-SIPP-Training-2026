@@ -11,6 +11,7 @@
 | [0539-minimum-time-difference](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0539-minimum-time-difference) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0946-validate-stack-sequences) |
+| [0962-maximum-width-ramp](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0962-maximum-width-ramp) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0844-backspace-string-compare](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
+| [0962-maximum-width-ramp](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0962-maximum-width-ramp) |
 ## String
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0946-validate-stack-sequences) |
+| [0962-maximum-width-ramp](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0962-maximum-width-ramp) |
 | [2390-removing-stars-from-a-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
@@ -140,6 +143,7 @@
 | ------- |
 | [0901-online-stock-span](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0962-maximum-width-ramp) |
 ## Data Stream
 |  |
 | ------- |
