@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0041-first-missing-positive) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0539-minimum-time-difference) |
@@ -14,6 +15,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
