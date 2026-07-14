@@ -15,7 +15,7 @@ class MinStack {
     
     public void pop() {
         int popValue = stack.pop();
-        if(!minStack.isEmpty() && popValue == minStack.peek()){
+        if(popValue == minStack.peek()){
             minStack.pop();
         }
     }
