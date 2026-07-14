@@ -38,6 +38,7 @@
 | [0537-complex-number-multiplication](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
+| [2390-removing-stars-from-a-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
+| [2390-removing-stars-from-a-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
+| [2390-removing-stars-from-a-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
