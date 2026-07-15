@@ -98,6 +98,7 @@
 | [0225-implement-stack-using-queues](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0225-implement-stack-using-queues) |
 | [0535-encode-and-decode-tinyurl](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
+| [0855-exam-room](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0855-exam-room) |
 | [0901-online-stock-span](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
 ## Hash Function
 |  |
@@ -204,9 +205,14 @@
 | [0767-reorganize-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0855-exam-room](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0855-exam-room) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0787-cheapest-flights-within-k-stops) |
+## Ordered Set
+|  |
+| ------- |
+| [0855-exam-room](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0855-exam-room) |
 <!---LeetCode Topics End-->
