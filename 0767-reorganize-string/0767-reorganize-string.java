@@ -1,34 +1,37 @@
-public class Solution {
+class Solution {
     public String reorganizeString(String s) {
-        HashMap<Character, Integer> freqMap = new HashMap<>();
-        for (char c : s.toCharArray()) {
-            freqMap.put(c, freqMap.getOrDefault(c, 0) + 1);
+        int[]freq= new int[26];
+        for(char c:s.toCharArray()){
+            freq[c-'a']++;
         }
 
-        PriorityQueue<Character> maxHeap = new PriorityQueue<>((a, b) -> freqMap.get(b) - freqMap.get(a));
-        maxHeap.addAll(freqMap.keySet());
+        int n=s.length();
 
-        StringBuilder res = new StringBuilder();
-        while (maxHeap.size() >= 2) {
-            char char1 = maxHeap.poll();
-            char char2 = maxHeap.poll();
+        int maxChar=0,maxFreq=0;
+        for(int i=0;i<26;i++){
+            if(freq[i]>maxFreq){
+                maxFreq=freq[i];
+                maxChar=i;
+            }
+        }
+        if(freq[maxChar] > (n+1)/2) return "";
 
-            res.append(char1);
-            res.append(char2);
-
-            freqMap.put(char1, freqMap.get(char1) - 1);
-            freqMap.put(char2, freqMap.get(char2) - 1);
-
-            if (freqMap.get(char1) > 0) maxHeap.add(char1);
-            if (freqMap.get(char2) > 0) maxHeap.add(char2);
+        int idx=0;
+        char result[]=new char[n];
+        while(freq[maxChar]>0){
+            result[idx]=(char)(maxChar+'a');
+            idx+=2;
+            freq[maxChar]--;
         }
 
-        if (!maxHeap.isEmpty()) {
-            char ch = maxHeap.poll();
-            if (freqMap.get(ch) > 1) return "";
-            res.append(ch);
+        for(int i=0;i<26;i++){
+            while(freq[i]>0){
+                if(idx>=n)idx=1;
+                result[idx]=(char) (i+'a');
+                freq[i]--;
+                idx+=2;
+            }
         }
-
-        return res.toString();
+        return new String(result);
     }
 }
