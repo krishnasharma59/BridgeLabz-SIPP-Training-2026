@@ -9,6 +9,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0539-minimum-time-difference) |
+| [0706-design-hashmap](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0962-maximum-width-ramp) |
@@ -24,6 +25,7 @@
 | [0383-ransom-note](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0383-ransom-note) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0535-encode-and-decode-tinyurl](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0535-encode-and-decode-tinyurl) |
+| [0706-design-hashmap](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,11 +84,13 @@
 | [0155-min-stack](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0225-implement-stack-using-queues) |
 | [0535-encode-and-decode-tinyurl](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0535-encode-and-decode-tinyurl) |
+| [0706-design-hashmap](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
 ## Hash Function
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0535-encode-and-decode-tinyurl) |
+| [0706-design-hashmap](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +114,7 @@
 | [0141-linked-list-cycle](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0328-odd-even-linked-list) |
+| [0706-design-hashmap](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
