@@ -10,6 +10,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0539-minimum-time-difference) |
 | [0706-design-hashmap](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0962-maximum-width-ramp) |
@@ -39,6 +40,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0844-backspace-string-compare](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
 | [0962-maximum-width-ramp](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0962-maximum-width-ramp) |
 ## String
@@ -66,6 +68,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0539-minimum-time-difference) |
 | [0767-reorganize-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0767-reorganize-string) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,6 +78,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0004-median-of-two-sorted-arrays) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -194,6 +198,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0767-reorganize-string) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Shortest Path
 |  |
 | ------- |
