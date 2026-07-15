@@ -92,6 +92,7 @@
 | [0537-complex-number-multiplication](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0539-minimum-time-difference) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Queue
 |  |
 | ------- |
