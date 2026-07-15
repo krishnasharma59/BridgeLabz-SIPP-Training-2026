@@ -13,6 +13,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0962-maximum-width-ramp) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0535-encode-and-decode-tinyurl](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,4 +163,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0383-ransom-note) |
+## Prefix Sum
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
