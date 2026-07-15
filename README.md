@@ -28,6 +28,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0535-encode-and-decode-tinyurl](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
+| [0767-reorganize-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
@@ -54,6 +55,7 @@
 | [0537-complex-number-multiplication](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
@@ -63,6 +65,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0539-minimum-time-difference) |
+| [0767-reorganize-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0767-reorganize-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -143,6 +146,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Number Theory
 |  |
@@ -167,6 +171,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0383-ransom-note) |
+| [0767-reorganize-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0767-reorganize-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -188,6 +193,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0743-network-delay-time) |
+| [0767-reorganize-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0767-reorganize-string) |
 ## Shortest Path
 |  |
 | ------- |
