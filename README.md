@@ -19,6 +19,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1054-distant-barcodes](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/1054-distant-barcodes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/1248-count-number-of-nice-subarrays) |
+| [1338-reduce-array-size-to-the-half](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/1338-reduce-array-size-to-the-half) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1054-distant-barcodes](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/1054-distant-barcodes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/1248-count-number-of-nice-subarrays) |
+| [1338-reduce-array-size-to-the-half](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/1338-reduce-array-size-to-the-half) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [0767-reorganize-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1054-distant-barcodes](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/1054-distant-barcodes) |
+| [1338-reduce-array-size-to-the-half](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/1338-reduce-array-size-to-the-half) |
 ## Sliding Window
 |  |
 | ------- |
@@ -162,6 +165,7 @@
 | [0767-reorganize-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1054-distant-barcodes](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/1054-distant-barcodes) |
+| [1338-reduce-array-size-to-the-half](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/1338-reduce-array-size-to-the-half) |
 ## Number Theory
 |  |
 | ------- |
@@ -219,6 +223,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0855-exam-room](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0855-exam-room) |
 | [1054-distant-barcodes](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/1054-distant-barcodes) |
+| [1338-reduce-array-size-to-the-half](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/1338-reduce-array-size-to-the-half) |
 ## Shortest Path
 |  |
 | ------- |
