@@ -107,6 +107,7 @@
 | [0155-min-stack](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0225-implement-stack-using-queues) |
 | [0535-encode-and-decode-tinyurl](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0535-encode-and-decode-tinyurl) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0706-design-hashmap](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 | [0855-exam-room](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0855-exam-room) |
 | [0901-online-stock-span](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
@@ -185,6 +186,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
 ## Counting
 |  |
@@ -217,6 +219,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0506-relative-ranks) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -245,4 +248,16 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0401-binary-watch) |
+## Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
