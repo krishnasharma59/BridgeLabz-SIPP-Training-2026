@@ -1,20 +1,30 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-        int[] ans = new int[nums.length - k +1];
-        int index = 0;
-        for(int i = 0; i <= nums.length-k;i++){
-            PriorityQueue<Integer> pq = new PriorityQueue<>();
-            for(int j = 0; j < i + k; j++){
-                pq.offer(nums[j]);
-            }
-            int max= Integer.MIN_VALUE;
-            for(int num : pq){
-                if(num > max){
-                    max = num;
-                }
-            }
-            ans[index++] = max;
+
+        PriorityQueue<int[]> pq = new PriorityQueue<>(
+            (a, b) -> b[0] - a[0]
+        );
+
+        int n = nums.length;
+        int[] ans = new int[n - k + 1];
+
+        for (int i = 0; i < k; i++) {
+            pq.offer(new int[]{nums[i], i});
         }
+
+        ans[0] = pq.peek()[0];
+
+        for (int i = k; i < n; i++) {
+
+            pq.offer(new int[]{nums[i], i});
+
+            while (pq.peek()[1] <= i - k) {
+                pq.poll();
+            }
+
+            ans[i - k + 1] = pq.peek()[0];
+        }
+
         return ans;
     }
 }
