@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0041-first-missing-positive) |
+| [0239-sliding-window-maximum](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0239-sliding-window-maximum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/1248-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -203,6 +206,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0767-reorganize-string) |
@@ -218,4 +222,8 @@
 |  |
 | ------- |
 | [0855-exam-room](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0855-exam-room) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
