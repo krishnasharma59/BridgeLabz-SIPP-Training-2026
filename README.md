@@ -67,6 +67,7 @@
 | [0844-backspace-string-compare](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sorting
 |  |
 | ------- |
@@ -271,4 +272,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0703-kth-largest-element-in-a-stream) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
