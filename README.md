@@ -262,10 +262,12 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -274,6 +276,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Enumeration
 |  |
