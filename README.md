@@ -21,6 +21,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/1248-count-number-of-nice-subarrays) |
 | [1338-reduce-array-size-to-the-half](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/1338-reduce-array-size-to-the-half) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/0786-k-th-smallest-prime-fraction) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -288,4 +291,8 @@
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/3499-maximize-active-section-with-trade-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/krishnasharma59/BridgeLabz-SIPP-Training-2026/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
